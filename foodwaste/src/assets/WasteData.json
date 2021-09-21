@@ -1,0 +1,62 @@
+[
+    {
+        "id": "2018",
+        "totalWaste": 1800,
+        "population": 18000,
+        "month":[
+            {
+             "February": 0,
+             "March:":0,
+             "April": 0,
+             "May": 0,
+             "June": 0,
+             "July": 0,
+             "August": 0,
+             "September": 0,
+             "October": 0,
+             "November": 0,
+             "December": 0
+            }
+        ]
+    },
+    {
+        "id": "2019",
+        "totalWaste": 1900,
+        "population": 19000,
+        "month":[
+         {
+          "February": 0,
+          "March:":0,
+          "April": 0,
+          "May": 0,
+          "June": 0,
+          "July": 0,
+          "August": 0,
+          "September": 0,
+          "October": 0,
+          "November": 0,
+          "December": 0
+         }
+        ]
+    },
+    {
+        "id": "2020",
+        "totalWaste": 2000,
+        "population": 22000,
+        "month":[
+            {
+             "February": 0,
+             "March:":0,
+             "April": 0,
+             "May": 0,
+             "June": 0,
+             "July": 0,
+             "August": 0,
+             "September": 0,
+             "October": 0,
+             "November": 0,
+             "December": 0
+            }
+        ]
+    }
+]
